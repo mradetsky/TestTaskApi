@@ -1,0 +1,12 @@
+/.vs/TestTaskApi/v15/.suo
+/.vs/TestTaskApi/v15/Server/sqlite3/storage.ide
+/.vs/TestTaskApi/v15/Server/sqlite3/storage.ide-shm
+/.vs/TestTaskApi/v15/Server/sqlite3/storage.ide-wal
+/.vs/config/applicationhost.config
+/TestTaskApi.EF/bin/Debug/netstandard2.0
+/TestTaskApi.EF/obj/Debug/netstandard2.0
+/TestTaskApi.EF/obj
+/TestTaskApi/bin/Debug/net461
+/TestTaskApi/obj/Debug/net461
+/TestTaskApi/obj
+/TestTaskApi/TestTaskApi.csproj.user

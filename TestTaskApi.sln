@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTaskApi", "TestTaskApi\TestTaskApi.csproj", "{FB7949FF-5791-48F9-9187-267F4D6925D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTaskApi.EF", "TestTaskApi.EF\TestTaskApi.EF.csproj", "{322FC69C-7C16-44BB-8F87-62D9E2E06F96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB7949FF-5791-48F9-9187-267F4D6925D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB7949FF-5791-48F9-9187-267F4D6925D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB7949FF-5791-48F9-9187-267F4D6925D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB7949FF-5791-48F9-9187-267F4D6925D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{322FC69C-7C16-44BB-8F87-62D9E2E06F96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{322FC69C-7C16-44BB-8F87-62D9E2E06F96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{322FC69C-7C16-44BB-8F87-62D9E2E06F96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{322FC69C-7C16-44BB-8F87-62D9E2E06F96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0951DBC9-8731-4C00-83B0-63DB6B602657}
+	EndGlobalSection
+EndGlobal
